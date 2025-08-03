@@ -1,0 +1,4 @@
+crewai
+pymupdf
+python-dotenv
+openai
